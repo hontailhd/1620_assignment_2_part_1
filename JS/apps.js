@@ -66,3 +66,6 @@
              
             /* close-not-button hides close-note-button */
 
+/* function scaleTextArea */
+    /* scales the text area according to window size */
+        /* Ask nathan how or just google search */
