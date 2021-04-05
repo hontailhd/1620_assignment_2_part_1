@@ -1,7 +1,7 @@
 
 
 
-
+/* function a*/
 /* function for theme changes */
     /*Adds a dark button for your app */
         
@@ -9,7 +9,7 @@
         
         /* button will change to notify user the dark/light theme is reversable */
 
-        
+/* function b*/    
 /* function to add a new note */
     /* create button */
         /* Creates a note-taking area*/
@@ -24,11 +24,15 @@
 
             /* Removes cancel button */
 
-            /* Asks user for note-title */
+            /* call function askNoteTitle */
+            
+
+            /* Ask for unique name */        
 
         /* Creates a cancel button*/
 
             /* Removes text not taking area*/
+                /* for the sake of resetting the note area */
 
             /* Removes note takeing area */
 
@@ -36,14 +40,23 @@
 
             /* Removes cancel button */
 
+/* function askNoteTitle */     
+/* function to ask user for note-title */
+                
+    /* check if note-title for unique name */
+        /* A loop will be required */    
+
+        /* id unique => call function c*/
+
+        /* id not unqiue => send an error message to user (not unqiue name) */
 
 
-
-
-/* function to add not into array */
+/* function c*/
+/* function to add note into array */
     /* ask for note-title */
 
-    /* note-title is added to noteArray */
+    /* note-title is added to noteArray as a button*/
+        /* Ask nathan how to */
 
     /* the note-title turns into a button */
         /* button displays note with the note-title */
