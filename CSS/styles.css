@@ -8,6 +8,7 @@
     color: #1f1d2e;
 }
 
+
 .container {
     display: grid;
     grid-template-columns: 8rem 1fr;
